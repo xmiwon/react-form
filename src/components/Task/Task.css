@@ -1,0 +1,10 @@
+.flex-end {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right:5px;
+}
+
+.gray-text {
+    color:rgb(170, 170, 170);
+}
